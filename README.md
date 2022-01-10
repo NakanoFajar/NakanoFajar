@@ -1,6 +1,6 @@
 <h1 align="center">Hiiii! <img src="https://github.com/YuzzuKamiyaka/image/blob/main/Kanna%20-%20eyes%20on%20you.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
 <p align="center">
-<a href="https://facebook.com/SuamiTokisakiKurumi"><img align="center" height="auto" src="https://github.com/JaaayXD/img/blob/main/IMG-20211222-WA0062.jpg"/></a>
+<a href="https://facebook.com/SuamiTokisakiKurumi"><img align="center" height="auto" src="https://github.com/NakanoFajar/img/blob/main/43569fd35c23c1cd11e0ea049fe78614-removebg-preview.png"/></a>
 
 <p align="center">
 
