@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hiiii! <img src="https://github.com/YuzzuKamiyaka/image/blob/main/Kanna%20-%20eyes%20on%20you.gif" style="border-radius:5;" width="45px" alt=""><br></h1>
+<p align="center">
+<a href="https://facebook.com/SuamiTokisakiKurumi"><img align="center" height="auto" src="https://github.com/JaaayXD/img/blob/main/IMG-20211222-WA0062.jpg"/></a>
 
-<!--
-**NakanoFajar/NakanoFajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+- Hy Im Fajar Reiva Cahya
+- I am 16 years old
+- I live in Indonesian
+- Thank you and follow me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+------
+
+### Connect with me 
+<p align="center">
+  <a href="https://instagram.com/bala.dasa_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6281337541779"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+
+  
+------
+
+### Spotify Music
+
+<p align="center">
+  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+ 
